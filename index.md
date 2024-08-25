@@ -1,6 +1,6 @@
-## Welcome to Neel's Page
+# Welcome to Neel's Page
 
-# Neel Bansal's First CS193 Homework
+### Neel Bansal's First CS193 Homework
 My fav things about CS 193:
 - Chill class
 - Looks simple but usefull
